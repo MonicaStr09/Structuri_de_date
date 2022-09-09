@@ -1,0 +1,85 @@
+12
+abc01
+Monica Moni
+Badic Mihai
+9
+10 01 2021
+21
+0
+abc02
+Cernat Mihai
+Costea Marin
+10
+20 01 2021
+25
+1
+abc03
+Cotfas Simona
+Darie Emanuel
+10
+30 02 2021
+30
+0
+abc04
+Valeriu David
+Darie Denis
+11
+12 02 2021
+23
+1
+abc05
+Popa Dorina
+Dobre Dragos
+12
+14 11 2021
+28
+0
+abc06
+Ardeleanu Mihaela
+Coca Eugen
+13
+16 01 2021
+34
+1
+abc07
+Bujdiu Marian
+Badea Gigel
+14
+19 03 2021
+16
+0
+abc08
+Voicu Violeta
+Vintila Adrian
+11
+20 04 2020
+57
+1
+abc09
+Poctovaru Marius
+Dumtitru Anghelinio
+12
+24 05 2020
+45
+0
+abc10
+Popescu Cristina
+Anghel Denisa
+14
+30 03 2022
+62
+1
+abc11
+Dinescu Andrei
+Stanciu Marius
+8
+25 03 2021
+25
+0
+abc12
+Bogdan Andreas
+Cumateanu Victoria
+16
+28 07 2021
+34
+1
